@@ -2,6 +2,7 @@ name: stonekaiju
 favicon: null
 layout_spectrum: 0.28168
 typography_spectrum: 0.23963
+title: Stone Kaiju
 cta:
   domain: null
   bucket: null
