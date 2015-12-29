@@ -23,7 +23,7 @@ color:
     - '#fc520b'
     - '#80180f'
   brandStrength: 0
-  lightness: 0.18235241435468197
-  saturation: 0.1875
-  rhythmicContrast: 0.75
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
